@@ -1,8 +1,8 @@
 # proxy-list
 
-Lists of free public HTTP, HTTPS and SOCKS5 proxies.
+**Service stopped!**
 
-Updated hourly.
+Lists of free public HTTP, HTTPS and SOCKS5 proxies.
 
 Collected by [proxy-collector](https://github.com/roma8ok/proxy-collector)
 
